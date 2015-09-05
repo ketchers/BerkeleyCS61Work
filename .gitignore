@@ -1,0 +1,7 @@
+**/*.class
+cs50*
+**/webcast/**
+**/exercises/**
+**/*.gpj
+**/*jgrasp*
+**/*~
